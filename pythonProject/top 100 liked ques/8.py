@@ -1,0 +1,2 @@
+# Given two sorted arrays, X[] and Y[] of size m and n each, merge elements of X[] with elements of array Y[] by maintaining the sorted order, i.e.,
+# fill X[] with the first m smallest elements and fill Y[] with remaining elements.

@@ -1,0 +1,1 @@
+# Given an integer array, rearrange it such that every second element becomes greater than its left and right elements. Assume no duplicate elements are present in the array.

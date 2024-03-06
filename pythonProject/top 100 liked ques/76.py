@@ -1,0 +1,2 @@
+# Given an undirected graph, check if it is bipartite or not.
+# A bipartite graph (or bigraph) is a graph whose vertices can be divided into two disjoint sets U and V such that every edge connects a vertex in U to one in V.
